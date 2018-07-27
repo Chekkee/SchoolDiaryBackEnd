@@ -1,0 +1,21 @@
+2018-07-21 20:58:26.2442|INFO|SchoolDiary.Services.AdminsService|Grade 4 was posted to student Rada Ribic for subject Matematika1
+2018-07-21 21:09:25.0819|INFO|SchoolDiary.Services.AdminsService|Getting admin by adminId was tried. Id was: 64059426-cab8-4354-ae1e-d0e1d1db284b
+2018-07-21 22:31:29.8462|INFO|SchoolDiary.Services.RegistrationsService|New student created. Student information - Name: kaka, LastName: lala, Username: lalalala, DateOfBirth: 04-Apr-04 00:00:00student was placed into year according to birthday Eight
+2018-07-21 22:31:43.0251|INFO|SchoolDiary.Services.TeachersService|Information aboute teacher with id 2b7ea5ac-8dbb-4d58-bbd0-eb46c497c0ab were changed.Changed teacher name: Dositejko,Changed teacher last name: Obradoviccc,Changed teacher username: Dositej,Changed teacher email: la@la.com,changed teacher phone number: 0600000000.
+2018-07-21 22:31:52.0147|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 56 (Hemija7)
+2018-07-21 22:31:53.2928|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 47 (Matematika7)
+2018-07-21 22:31:54.7318|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 2 (Matematika1)
+2018-07-21 22:31:55.7168|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 46 (Srpski7)
+2018-07-21 22:31:56.5684|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 55 (Fizika7)
+2018-07-21 22:31:57.1476|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 54 (Tehnicko7)
+2018-07-21 22:31:57.6899|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 53 (Biologija7)
+2018-07-21 22:31:58.2346|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 52 (Geografija7)
+2018-07-21 22:31:58.7919|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 51 (Likovno7)
+2018-07-21 22:31:59.3736|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 50 (Muzicko7)
+2018-07-21 22:32:00.4903|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 49 (Fizicko7)
+2018-07-21 22:32:01.5728|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 48 (Istorija7)
+2018-07-21 22:32:16.3658|INFO|SchoolDiary.Services.TeachersService|Subject with id 1 (Srpski1) was put to teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic)
+2018-07-21 22:32:39.4780|INFO|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) no longer teaches subject with id 1 (Srpski1)
+2018-07-21 22:32:44.8566|WARN|SchoolDiary.Services.TeachersService|Teacher with id b9449c69-9083-45f2-834f-d6c6197474af (Jovica Panic) was deleted
+2018-07-21 22:32:56.0576|INFO|SchoolDiary.Services.StudentsService|Student with id 2e25c374-6e8f-4720-837d-fdce95b37b7c (Rada Ribic) is no longer registered child of parent with id 8d72f943-9663-44a2-967e-9f4153fec10e (Gordana Ribic)
+2018-07-21 22:32:59.8472|INFO|SchoolDiary.Services.StudentsService|Parent with id 8d72f943-9663-44a2-967e-9f4153fec10e (Gordana Ribic) registered student with id 7d468419-a103-4270-99a8-06143fbf029a (Ceda Ribic) as his/her child
